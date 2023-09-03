@@ -16,7 +16,7 @@ body{
     display: flex;
     flex-direction: column;
     position: sticky;
-    width: 100%;
+/*     width: 100%; */
 }
 /* header_main-section */
 .main_container{
