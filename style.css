@@ -16,7 +16,7 @@ body{
     display: flex;
     flex-direction: column;
     position: sticky;
-    width: 90%;
+/*     width: 90%; */
     top: o;
 }
 /* header_main-section */
@@ -29,7 +29,7 @@ body{
     align-items: center;
     /* position: fixed; */
     padding-left: 108px;
-    padding-right: 108px;
+    padding-right: 150px;
     padding-bottom: 0px;
     overflow: hidden;
    
